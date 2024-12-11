@@ -17,6 +17,6 @@ int main()
     difference = n1 - n2;
     cout << "difference of numbers are: " << difference << endl;
 
-    quotient = n1 - n2;
+    quotient = n1 / n2;
     cout << "quotient of numbers are: " << quotient << endl;
 }
